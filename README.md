@@ -260,6 +260,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Public REST APIs To Use In Tests
 
 * [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
+* [APIWatch](https://github.com/155143783/apiwatch) - Open-source API health monitoring with x402 payment support.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
 
